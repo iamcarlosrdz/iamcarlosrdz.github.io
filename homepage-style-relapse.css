@@ -30,7 +30,9 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-}
+  max-width: 100%;
+  height: 500px; 
+} 
 
 #banner h1 {
   font-size: 3.75rem;
